@@ -8,6 +8,10 @@ Problem statement is taken from Kaggle https://www.kaggle.com/c/quora-question-p
 Here various text encoding method is tried and model is finetuned to achiveve best possible accuracy.
 
 
+
+## SUMMARY
+
+
 ### Problem Statement
 
 * It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not. We are tasked with predicting whether a pair of questions are duplicates or not.
